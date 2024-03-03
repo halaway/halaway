@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halaway)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=halaway" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
