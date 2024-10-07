@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**halaway/halaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Daniel** and I'm a recent Computer Science Graduate with a minor in Math from **Hunter College**.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+I recently worked **@ Cushman & Wakefield Inc.**, as part of the Technology and Data Solutions Team while supporting the Valuation & Advisory Dept.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm  working on a project with MySQL, Python, and Docker, and have released several C++ desktop and browser based projects, along with a Chrome extension, [Quick Fill](https://chromewebstore.google.com/detail/quick-fill/pfbbpdklmganoljhiceopghgjdmnmidd?authuser=0&hl=en) to autofill and quickly sign up for a Workday account.
+
+```
+I'm always looking to collaborate so feel free to connect!
+```
